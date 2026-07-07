@@ -1,16 +1,14 @@
-# Summer Module Practice
+# Summer Module – Data Structures & Algorithms Practice
 
-This repository contains my solutions, practice programs, and assignments completed as part of the **Summer Module** provided by my college.
-
-The purpose of this module is to strengthen programming fundamentals through regular practice and hands-on implementation of different concepts.
+This repository contains my solutions and practice exercises completed as part of the **Summer Module** provided by my college. The primary goal of this module is to strengthen my understanding of **Data Structures and Algorithms (DSA)** through consistent problem-solving and hands-on coding.
 
 ## Objectives
 
-- Improve problem-solving skills
-- Strengthen programming fundamentals
-- Practice object-oriented programming concepts
-- Learn to write clean and structured code
-- Build consistency through daily coding exercises
+- Build a strong foundation in Data Structures and Algorithms
+- Improve problem-solving and analytical thinking
+- Learn efficient algorithm design and implementation
+- Develop clean and optimized coding practices
+- Prepare for coding interviews and competitive programming
 
 ## Repository Structure
 
@@ -24,23 +22,31 @@ Summer-Practice/
 └── README.md
 ```
 
+Each folder contains the programs, exercises, and assignments completed for that day's module.
+
+## Topics Covered
+
+The repository includes practice on topics such as:
+
+- Time & Space Complexity
+- Arrays
+- Strings
+- Searching Algorithms
+- Sorting Algorithms
+- Recursion
+
+> Topics will be added as they are covered during the module.
+
 ## Technologies Used
 
 - Java
-- IntelliJ IDEA / Eclipse
+- IntelliJ IDEA
 - Git & GitHub
 
 ## Purpose
 
-This repository serves as:
-
-- A record of my progress during the summer module
-- A collection of programming practice
-- A reference for future learning
-
-## Note
-
-This repository is maintained for educational purposes as part of my college's Summer Module.
+This repository serves as a record of my progress throughout the summer module and helps me track my growth in DSA through consistent practice.
 
 ---
+
 
