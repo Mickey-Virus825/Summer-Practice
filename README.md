@@ -15,7 +15,7 @@ The purpose of this module is to strengthen programming fundamentals through reg
 ## Repository Structure
 
 ```
-Summer-Module-Practice/
+Summer-Practice/
 │
 ├── Week-01/
 ├── Week-02/
