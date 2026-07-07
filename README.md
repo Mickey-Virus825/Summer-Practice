@@ -17,9 +17,9 @@ The purpose of this module is to strengthen programming fundamentals through reg
 ```
 Summer-Practice/
 │
-├── Week-01/
-├── Week-02/
-├── Week-03/
+├── Week-01
+├── Week-02
+├── Week-03
 ├── ...
 └── README.md
 ```
